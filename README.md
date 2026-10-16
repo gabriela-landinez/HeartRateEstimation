@@ -1,8 +1,6 @@
 # Heart Rate Estimation from Inertial Measurements (SCG / BCG)
-
-Laboratory of Computational Physics, Module B
-
-Physics of Data, Università degli Studi di Padova
+### Laboratory of Computational Physics, Module B
+### Physics of Data, Università degli Studi di Padova
 
 
 Ballistocardiography (BCG) and seismocardiography (SCG) are both non-invasive techniques used to monitor the human heart, based on its mechanical activity. These techniques record the micromovements induced by cardiovascular activity at the body’s center of mass and on the chest. In this project we estimate the heart rate of a healthy subject from linear-acceleration and angular-velocity signals recorded with the *MuSe* inertial measurement unit (IMU) by 221e. 
